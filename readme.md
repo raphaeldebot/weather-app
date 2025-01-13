@@ -57,6 +57,10 @@ Oh, and I added **lots of comments**! Why? Because I wanted to understand what I
 
 This project has been a great learning experience for me. I hope it makes you smile when you see my efforts (and all the comments I added everywhere). Thanks to the Chingu team for this opportunity!
 
+## Live Demo
+Check out the live version of the app here: [Weather App](https://raphaeldebot.github.io/weather-app/)
+
+
 ---
 
 🎉 **Solo Project submitted by raphaeldebot as part of the Chingu voyage!**
