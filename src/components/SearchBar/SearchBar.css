@@ -1,0 +1,31 @@
+/* SearchBar styles */
+
+/* Styles for the search bar container */
+.search-bar {
+    margin-bottom: 20px; /* Add spacing below the search bar */
+  }
+  
+  /* Styles for the input field */
+  .search-input {
+    padding: 10px; /* Inner spacing for the input */
+    border-radius: 5px; /* Rounded corners */
+    margin-right: 10px; /* Spacing on the right */
+    border: 1px solid #ccc; /* Light gray border */
+    width: 70%; /* Set width to 70% of the parent */
+  }
+  
+  /* Styles for the search button */
+  .search-button {
+    padding: 10px 20px; /* Inner spacing */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #656c74; /* Dark gray background */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    cursor: pointer; /* Pointer cursor on hover */
+  }
+  
+  /* Hover effect for the search button */
+  .search-button:hover {
+    background-color: #28d31f; /* Change background color on hover */
+  }
+  
